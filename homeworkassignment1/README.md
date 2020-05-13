@@ -4,7 +4,7 @@
 
 ## Description
 
-In this project I refactored the clients html and css files to make them easy to read, understand, and maintain.
+In this project I refactored the clients html and css files to make them easy to read, understand, and maintainable.
 
 
 For example:
