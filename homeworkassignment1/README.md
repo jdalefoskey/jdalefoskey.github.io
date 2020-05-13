@@ -12,7 +12,7 @@ For example:
 ```
 <!-- Here i added an *id tag* of 'search-engin-optimization' so the link would work above-->
 
-        <div class="search-engine-optimization" id="search-engine-optimization">
+<div class="search-engine-optimization" id="search-engine-optimization">
 
 ```
 
@@ -20,8 +20,10 @@ For example:
 /* Created this to *combine* elemnts to align center */
 
 footer, .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
-    text-align: center;
+text-align: center;
+
 }
+
 ```
 
 ## Usage
