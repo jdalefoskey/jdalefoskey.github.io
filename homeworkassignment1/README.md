@@ -4,7 +4,7 @@
 
 ## Description
 
-In this project I refactored the clients html and css files to make them easy to read, understand, and maintain.
+In this project I refactored the clients html and css files to make them easy to read, understand, and maintainable.
 
 
 For example:
@@ -12,7 +12,7 @@ For example:
 ```
 <!-- Here i added an *id tag* of 'search-engin-optimization' so the link would work above-->
 
-        <div class="search-engine-optimization" id="search-engine-optimization">
+<div class="search-engine-optimization" id="search-engine-optimization">
 
 ```
 
@@ -20,8 +20,10 @@ For example:
 /* Created this to *combine* elemnts to align center */
 
 footer, .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
-    text-align: center;
+text-align: center;
+
 }
+
 ```
 
 ## Usage
@@ -39,11 +41,8 @@ use the *assets/images* file to store and add additional photos
 
 
 [Link](file:///Users/dalefoskey/Documents/GitHub/jdalefoskey.github.io/homeworkassignment1/index.html#social-media-marketing) and ![Image](assets/images/website screenshot.png)
-```
 
 
 
-
-
-### For support or contact:  dalefoskey@icloud.com
+### For support or contact:  dalefoskey@icloud.com ###
 
