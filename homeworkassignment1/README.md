@@ -39,11 +39,8 @@ use the *assets/images* file to store and add additional photos
 
 
 [Link](file:///Users/dalefoskey/Documents/GitHub/jdalefoskey.github.io/homeworkassignment1/index.html#social-media-marketing) and ![Image](assets/images/website screenshot.png)
-```
 
 
 
-
-
-### For support or contact:  dalefoskey@icloud.com
+### For support or contact:  dalefoskey@icloud.com ###
 
