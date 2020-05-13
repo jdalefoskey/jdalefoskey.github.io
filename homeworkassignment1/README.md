@@ -1,35 +1,49 @@
-## Homework Assignment 1
+# Homework Assignment 1
 
 
 
-### Markdown
+## Description
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In this project I refactored the clients html and css files to make them easy to read, understand, and maintain.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+For example:
 
-- Bulleted
-- List
+```
+<!-- Here i added an *id tag* of 'search-engin-optimization' so the link would work above-->
 
-1. Numbered
-2. List
+        <div class="search-engine-optimization" id="search-engine-optimization">
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see .
+```
+/* Created this to *combine* elemnts to align center */
 
-### Jekyll Themes
+footer, .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
+    text-align: center;
+}
+```
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdalefoskey/homeworkassignment1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Usage
+use the *index.html* to further improve the code 
+use the *style.css* file to further improve css functioning
+use the *assets/images* file to store and add additional photos
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Work Completed
+
+- Refactored HTML to meet HTML 5 guidelines, corrected broken links
+- Refactored CSS by organizing by groups and combining code to reduce footprint
+
+
+
+
+[Link](file:///Users/dalefoskey/Documents/GitHub/jdalefoskey.github.io/homeworkassignment1/index.html#social-media-marketing) and ![Image](assets/images/website screenshot.png)
+```
+
+
+
+
+
+### For support or contact:  dalefoskey@icloud.com
+
