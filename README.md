@@ -1,2 +1,0 @@
-# jdalefoskey.github.io
-Portfolio
