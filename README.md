@@ -17,6 +17,14 @@ Terminal window
 Using your filesystem explorer locate the html and css files
 Then either open the html files in browser for inspection, or using your choice of code editor to edit.
 
+![screenshot1](assets/images/ss1.png)
+![screenshot2](assets/images/ss2.png)
+![screenshot3](assets/images/ss3.png)
+
+
+
+
+
 ## Built With
 ---
 - Visual Studio Code
