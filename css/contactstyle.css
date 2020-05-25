@@ -1,0 +1,52 @@
+@media only screen and (max-width: 800px) {
+    a {
+      margin-top: -10px;
+      margin-left: -10px;
+      float: left;
+      display: block;
+      padding-bottom: 0;
+    }
+    .row2Box {
+      max-width: 80%;
+    }
+}
+
+.row2Box {
+    height: 500px;
+    width: 500px;
+    background-color: white;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.row2BoxHead {
+    height: 70px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-top: 20px;
+    color: #54b096;
+    border-bottom: 1px solid darkgray;
+}
+
+.formLabel {
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
+
+.formEmail {
+    margin-top: 5px; 
+    margin-bottom: 10px;
+}
+
+.contactEmail, .contactText, .email, .contactName {
+    margin-left: 20px;
+    max-width: 80%;
+}
+
+.submitButton {
+    margin-left: 35px;
+    background-color: #54b096;
+}
+
+
+
