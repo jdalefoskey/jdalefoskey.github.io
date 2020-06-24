@@ -1,0 +1,32 @@
+.body {
+	background-color: black;
+	width: 75%;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+.cardsTitles {
+	text-align: center;
+	margin: 0px;
+}
+
+.cards {
+	float: left;
+	margin-right: 20px;
+	margin-top: 50px;
+	padding: 0;
+	background-color: darkgrey;
+	height: auto;
+}
+
+.buttonss {
+	margin-left: 70px;
+	background-color: black;
+	border: none;
+	box-shadow: 1px 1px lightgray;
+}
+
+#talker {
+	text-align: center;
+	color: gray;
+}
