@@ -21,7 +21,8 @@ https://www.johnnydalefoskey.org/ or https://github.com/jdalefoskey/jdalefoskey.
 
 ### Screenshots
 
-readmescreenshot.png
+![Alt text](readmescreenshot.png?raw=true "screenshot")
+
 
 ## Author
 
