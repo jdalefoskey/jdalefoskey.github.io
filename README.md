@@ -19,10 +19,6 @@
 https://www.johnnydalefoskey.org/ or https://github.com/jdalefoskey/jdalefoskey.github.io
 ```
 
-### Screenshots
-
-![Alt text](readmescreenshot.png?raw=true "screenshot")
-
 
 ## Author
 
