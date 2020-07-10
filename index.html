@@ -13,8 +13,21 @@
     <title>Document</title>
   </head>
   <body>
+    <span id="hamburger" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Go to</span>
+    <!-- this is the overlay -->
+    <div id="myNav" class="overlay">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <div class="overlay-content">
+        <a href="#porttag">My work</a>
+        <a href="#whotag">Who am I</a>
+        <a href="#techtag">Technology I Know</a>
+        <a href="#idtag">Get in touch with me</a>
+      </div>
+    </div>
+
+    <!-- end of overlay -->
     <div class="jumbotron">
-      <div class="container">
+      <div class="container">n
         <img
           src="wallpaper.jpg"
           alt="Image of mac laptop on a desk"
@@ -114,7 +127,7 @@
                   ---------------------------->
       <section id="portfolio">
         <div class="container">
-          <h1>Portfolio</h1>
+          <h1 id="porttag">Portfolio</h1>
           <hr class="style-seven" />
 
           <!-- Row #1 -->
@@ -264,7 +277,7 @@
                   --------------------------->
       <section id="about" class="teall-bg">
         <div class="container">
-          <h1>About</h1>
+          <h1 id="whotag">About</h1>
           <hr class="style-seven" />
           <p>
             Hi, I'm Dale, i'm a Full-time Web Developer and part-time
@@ -286,7 +299,7 @@
                   --------------------------->
       <section id="skills">
         <div class="container">
-          <h1>Skills</h1>
+          <h1 id="techtag">Skills</h1>
           <hr class="style=seven" />
 
           <ul class="list-inline">
@@ -347,7 +360,7 @@
 
       <section id="contact" class="teall-bg">
         <div class="container">
-          <h1>Contact</h1>
+          <h1 id="idtag">Contact</h1>
           <a id="mailTo" href="mailto:dalefoskey@icloud.com"
             >dalefoskey@icloud.com</a
           >
