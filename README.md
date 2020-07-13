@@ -1,42 +1,31 @@
-<h1 align="center">Welcome to my portfolio page 👋</h1>
+# Portfolio Page
+---
+
+## Description
+This is my personal portfolio page, thanks for checking it out
 
 
-
-### 🏠 [Homepage](https://www.johnnydalefoskey.org/)
-
-### ✨ [Demo](https://www.johnnydalefoskey.org/)
+## Getting Started
+---
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deploying the game for notes on how to deploy the project on a live system.
 
 ## Prerequisites
+---
+Windows or Mac file expolorer
+Working web browers (ie Chrome browser, Mozilla Firefoxi)
+Code editing software (ie Sublime text, Visual Studio Code)
+Terminal window
+internet access
 
-- windows
-- mac
+## Installation
+---
+Using your filesystem explorer locate the html and css files
+Then either open the html files in browser for inspection, or using your choice of code editor to edit.
 
+## Deploying the webpage
+---
+From any web browser visit this site  https://jdalefoskey.github.io/ to begin using
 
-
-## Usage
-
-```sh
-https://www.johnnydalefoskey.org/ or https://github.com/jdalefoskey/jdalefoskey.github.io
-```
-
-
-## Author
-
-👤 **Dale Foskey**
-
-* Website: https://www.johnnydalefoskey.org/
-* Twitter: [@dale_foskey](https://twitter.com/dale_foskey)
-* GitHub: [@jdalefoskey](https://github.com/jdalefoskey)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-
-
-
-
+## Repository contents
+---
+All files for the GitHub pages site reside in the  directory and were used only to submit the homepage for the project.
