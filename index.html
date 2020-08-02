@@ -2,7 +2,13 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <meta
+      name="”viewport”"
+      content="”width"
+      ="device-width,"
+      initial-scale="1″"
+    />
     <link
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
@@ -13,10 +19,17 @@
     <title>Document</title>
   </head>
   <body>
-    <span id="hamburger" style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; Go to</span>
+    <span
+      id="hamburger"
+      style="font-size: 30px; cursor: pointer;"
+      onclick="openNav()"
+      >&#9776; Go to</span
+    >
     <!-- this is the overlay -->
     <div id="myNav" class="overlay">
-      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"
+        >&times;</a
+      >
       <div class="overlay-content">
         <a href="#porttag">My work</a>
         <a href="#whotag">Who am I</a>
@@ -27,7 +40,8 @@
 
     <!-- end of overlay -->
     <div class="jumbotron">
-      <div class="container">n
+      <div class="container">
+        n
         <img
           src="wallpaper.jpg"
           alt="Image of mac laptop on a desk"
@@ -134,7 +148,21 @@
           <div class="row">
             <div class="col-md-4 soft-transition">
               <!-- loadModal(title, thumb, body, launchLink) 
-                                      -- from custom-modal-functions.js -->
+             -- from custom-modal-functions.js -->
+              <a
+                href="#"
+                data-toggle="modal"
+                data-target="#modal"
+                onclick="loadModal('Express Note Taker', 'screenshot.png', 'A note taking app build with node.js and express.js. You can add, store, delete notes', 'https://notetakerman.herokuapp.com/')"
+              >
+                <div class="project-overlay teall-bg"></div>
+                <img
+                  src="notetaker.png"
+                  alt="notetaker picture"
+                  class="project-thumb"
+                />
+                <h3>Node Express Note Taker</h3>
+              </a>
               <a
                 href="#"
                 data-toggle="modal"
@@ -208,7 +236,11 @@
                 onclick="loadModal('Cat Bar', 'screenshotcatbar.png', 'Cat Bar is an online virtual bar for all the cool cats, get the catnip ready!!.', 'https://github.com/jdalefoskey/catbar')"
               >
                 <div class="project-overlay teall-bg"></div>
-                <img src="screenshotcatbar.png" alt="catbatr" class="project-thumb" />
+                <img
+                  src="screenshotcatbar.png"
+                  alt="catbatr"
+                  class="project-thumb"
+                />
                 <h3>Cat Bar</h3>
               </a>
             </div>
