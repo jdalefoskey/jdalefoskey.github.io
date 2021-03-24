@@ -21,7 +21,7 @@
   <body>
     <span
       id="hamburger"
-      style="font-size: 30px; cursor: pointer;"
+      style="font-size: 30px; cursor: pointer"
       onclick="openNav()"
       >&#9776; Go to</span
     >
@@ -110,7 +110,7 @@
             </button>
 
             <!-- Site Branding -->
-            <div class="navbar-header">
+            <div id="logoset" class="navbar-header">
               <a class="navbar-brand" href="#">
                 <img src="dalellogo.png" alt="dales logo" class="site-logo" />
                 <p>Dale Foskey</p>
@@ -249,11 +249,15 @@
                 href="#"
                 data-toggle="modal"
                 data-target="#modal"
-                onclick="loadModal('Javascript Quiz', 'quiz.png', 'Test your skills in javascript and beat the clock before it runs out of time.', 'https://jdalefoskey.github.io/homeworkfour/')"
+                onclick="loadModal('Recipe App', 'screenshotRecipe.png', 'Find your favorite recipe, using react and api get request', 'https://recipe-search-app-jdf.herokuapp.com/')"
               >
                 <div class="project-overlay teall-bg"></div>
-                <img src="quiz.png" alt="quiz" class="project-thumb" />
-                <h3>Javascript Quiz</h3>
+                <img
+                  src="screenshotRecipe.png"
+                  alt="recipe"
+                  class="project-thumb"
+                />
+                <h3>React Recipe Search</h3>
               </a>
             </div>
             <!-- END row -->
@@ -352,6 +356,9 @@
                 src="http://jimkulakowski.com/web-design/img/skills-logos/javascript-logo.png"
                 alt="javascript"
               />
+            </li>
+            <li>
+              <img src="nodejs.svg" alt="nodejs" />
             </li>
             <li>
               <img
